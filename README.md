@@ -22,7 +22,7 @@ The project includes data preprocessing, model training, prediction, and deploym
 # 📷 Application Preview
 
 <p align="center">
-<img src="images/home.png" width="100%">
+<img src="https://github.com/amanpawar2004/Car_Price_Prediction/blob/main/Image1.png?raw=true" width="100%">
 </p>
 
 <p align="center">
